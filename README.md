@@ -31,7 +31,7 @@ cd Bug-Detection
 
 
 ### 3. Project Folder Structure
-
+```
 Bug-Detection/
 ├── app/
 │   ├── models/
@@ -43,7 +43,7 @@ Bug-Detection/
 ├── .env
 ├── requirements.txt
 └── README.md
-
+```
 
 ### 4.  Set Up Python Environment
 Open terminal or CMD and navigate to the project folder:
